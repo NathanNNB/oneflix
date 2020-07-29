@@ -2,182 +2,160 @@
   "categorias": [
     {
       "titulo": "Luffy",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "red",
+      
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "TODOS OS GEARS DE LUFFY EXPLICADOS",
+          "url": "https://www.youtube.com/watch?v=ouJQnHjQVWc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "TODOS OS GEARS DE LUFFY EXPLICADOS ",
+          "url": "https://www.youtube.com/watch?v=ouJQnHjQVWc"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "OS 5 MOMENTOS MAIS ÉPICOS DO LUFFY! ",
+          "url": "https://www.youtube.com/watch?v=xVvxw1JtSBg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "NÍVEL DE PODER DAS TRANSFORMAÇÕES DO LUFFY",
+          "url": "https://www.youtube.com/watch?v=lVJ2lvpUEcU"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "OS MOMENTOS MAIS INTELIGENTES DE LUFFY!",
+          "url": "https://www.youtube.com/watch?v=erdODUZqtW8"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Luffy x Kaido | One Piece ep 914 ",
+          "url": "https://www.youtube.com/watch?v=Zl1oIVf0GQ4"
+        }
+              
       ]
     },
     {
-      "titulo": "Tripulação",
+      "titulo": "Melhores Momentos",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "10 CENAS mais ÉPICAS de ONE PIECE! ",
+          "url": "https://www.youtube.com/watch?v=zT86jc6QXFU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "One Piece - Sanji funny moments",
+          "url": "https://www.youtube.com/watch?v=VFo0vmA8A1U"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Top 5 Badass Usopp's moments",
+          "url": "https://www.youtube.com/watch?v=-P5A6KtfHUw"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Monster Nami ",
+          "url": "https://www.youtube.com/watch?v=HMKK_CAFwUI"
         }, 
         {
           "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "url": "https://www.youtube.com/watch?v=UO_s2L9Fh20"
         }
       ]
     },
     {
       "titulo": "Mangá",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "LUFFY VS KAIDO JÁ AGORA?! ",
+          "url": "https://www.youtube.com/watch?v=XyESQZ5R76U"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Revelado Yamato",
+          "url": "https://www.youtube.com/watch?v=mDt7f0ngSP4&t=3s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "OROCHI VOLTA? ",
+          "url": "https://www.youtube.com/watch?v=rj3oQpWdheU"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "One Piece 985 | Mangá",
+          "url": "https://www.youtube.com/watch?v=oyQHH-D2KtY"
         }
       ]
     },
     {
       "titulo": "Músicas",
-      "cor": "orange",
+      "cor": "purple",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Binks no Sake",
+          "url": "https://www.youtube.com/watch?v=Q41sefpItDo"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "We Are",
+          "url": "https://www.youtube.com/watch?v=-nPwqO30ZOQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "We Go",
+          "url": "https://www.youtube.com/watch?v=fCQufN8Wsgc"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "One Day",
+          "url": "https://www.youtube.com/watch?v=8_92ErLH5s4"
         }
       ]
     },
     {
-      "titulo": "Recompensas",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Teorias",
+      "cor": "orange",
+      
+      
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "ONE PIECE TEORIAS",
+          "url": "https://www.youtube.com/watch?v=Km47PZvM5iU"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "SÉCULO PERDIDO DESVENDADO ",
+          "url": "https://www.youtube.com/watch?v=k9pKdcDERVI&t=44s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "O CORPO E A ESCURIDÃO DE BARBA NEGRA",
+          "url": "hhttps://www.youtube.com/watch?v=ZVnpzYCKB78"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Mihawk",
+          "url": "https://www.youtube.com/watch?v=HpTvnfIK4ss"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "OS PODERES DE SHANKS",
+          "url": "https://www.youtube.com/watch?v=S8e-11JEj8g"
         }
       ]
     },
     {
       "titulo": "Curiosidades",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Mistérios não resolvidos",
+          "url": "https://www.youtube.com/watch?v=ZXgLAxs42ak&t=1122s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Curiosidades que você não sabia sobre One Piece",
+          "url": "https://www.youtube.com/watch?v=FM0W_pTKhyk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "15 CURIOSIDADES SOBRE O LUFFY ",
+          "url": "https://www.youtube.com/watch?v=4av6Fs6FvC0"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "10 Curiosidades Reveladas",
+          "url": "https://www.youtube.com/watch?v=9LUe7E4FXqA"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "15 CURIOSIDADES SOBRE OS REVOLUCIONÁRIOS ?",
+          "url": "https://www.youtube.com/watch?v=hQY86ygcT6o&t=724s"
         }
       ]
     }

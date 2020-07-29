@@ -27,7 +27,7 @@ export default function BannerMain({
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
-            {videoDescription}
+           
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 
