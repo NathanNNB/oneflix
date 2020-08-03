@@ -1,5 +1,5 @@
 /* eslint-disable linebreak-style */
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import Button from '../../../components/Button';
@@ -30,6 +30,37 @@ function CadastroCategoria() {
       infosDoEvento.target.value,
     );
   }
+
+  useEffect(() => {
+    console.log('alo alo w brasil');
+    const URL_TOP = 'http://localhost:8080/categorias';
+    fetch('URL_TOP');
+    fetch(URL_TOP);
+    fetch('http://localhost:8080/categorias')
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
+        setCategorias([
+          ...resposta,
+        ]);
+      });
+    // setTimeout(() => {
+    //   setCategorias([
+    //     ...categorias,
+    //     {
+    //       id: 1,
+    //       nome: 'Luffy',
+    //       descricao: 'Uma categoria linda',
+    //       cor: '6bd1ff',
+    //     },
+    //     {
+    //       id: 2,
+    //       nome: 'Música',
+    //       descricao: 'Uma categoria linda',
+    //       cor: '6bd1ff',
+    //     },
+    //   ]);
+    // }, 4 * 1000);
+  }, []);
 
   return (
     <PageDefault>
@@ -77,9 +108,16 @@ function CadastroCategoria() {
           Cadastrar
         </Button>
       </form>
+      {categorias.length === 0 && (
+        <div>
+          {/* Cargando */}
+          Loading...
+        </div>
+      )}
+
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria}`}>
+          <li key={`${categoria.nome}`}>
             {categoria.nome}
           </li>
         ))}

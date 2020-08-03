@@ -1,7 +1,7 @@
 /* eslint-disable linebreak-style */
 import React from 'react';
 import Proptypes from 'prop-types';
-import styled, {css} from 'styled-components';
+import styled, { css } from 'styled-components';
 
 const FormFieldWrapper = styled.div`
   position: relative;
@@ -31,9 +31,6 @@ Label.Text = styled.span`
   font-weight: 300;
 
   transition: .1s ease-in-out;
-
-
-
 
 `;
 const Input = styled.input`
@@ -66,13 +63,11 @@ const Input = styled.input`
 
   }
 
-  ${function({ hasValue }) {
-    return hasValue && css`
+  ${({ hasValue }) => hasValue && css`
       &:not([type="color"]) + span {
         transform: scale(.6) translateY(-10px);
       }
-    `;
-  }}
+    `}
 `;
 
 function FormField({
@@ -88,7 +83,7 @@ function FormField({
       <Label
         htmlFor={fieldId}
       >
-       
+
         <Input
           as={tag}
           id={fieldId}
