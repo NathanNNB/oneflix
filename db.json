@@ -1,16 +1,222 @@
 {
-    "categorias":[
-        {
-            "id": 1,
-            "nome": "Luffy", 
-            "descricao": "Uma categoria linda", 
-            "cor": "6bd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Música", 
-            "descricao": "Uma categoria linda", 
-            "cor": "6bd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Luffy",
+      "cor": "red"
+    },
+    {
+      "id": 2,
+      "titulo": "Melhores Momentos",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "Mangá",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "titulo": "Músicas",
+      "cor": "purple"
+    },
+    {
+      "id": 5,
+      "titulo": "Teorias",
+      "cor": "orange"
+    },
+    {
+      "id": 6,
+      "titulo": "Curiosidades",
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "TODOS OS GEARS DE LUFFY EXPLICADOS",
+      "url": "https://www.youtube.com/watch?v=ouJQnHjQVWc"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "TODOS OS GEARS DE LUFFY EXPLICADOS ",
+      "url": "https://www.youtube.com/watch?v=ouJQnHjQVWc"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "OS 5 MOMENTOS MAIS ÉPICOS DO LUFFY! ",
+      "url": "https://www.youtube.com/watch?v=xVvxw1JtSBg"
+    },
+    {
+      "id": 14,
+      "categoriaId": 1,
+      "titulo": "NÍVEL DE PODER DAS TRANSFORMAÇÕES DO LUFFY",
+      "url": "https://www.youtube.com/watch?v=lVJ2lvpUEcU"
+    },
+    {
+      "id": 15,
+      "categoriaId": 1,
+      "titulo": "OS MOMENTOS MAIS INTELIGENTES DE LUFFY!",
+      "url": "https://www.youtube.com/watch?v=erdODUZqtW8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 1,
+      "titulo": "Luffy x Kaido | One Piece ep 914 ",
+      "url": "https://www.youtube.com/watch?v=Zl1oIVf0GQ4"
+    },
+    {
+      "id": 21,
+      "categoriaId": 2,
+      "titulo": "10 CENAS mais ÉPICAS de ONE PIECE! ",
+      "url": "https://www.youtube.com/watch?v=zT86jc6QXFU"
+    },
+    {
+      "id": 22,
+      "categoriaId": 2,
+      "titulo": "One Piece - Sanji funny moments",
+      "url": "https://www.youtube.com/watch?v=VFo0vmA8A1U"
+    },
+    {
+      "id": 23,
+      "categoriaId": 2,
+      "titulo": "Top 5 Badass Usopp's moments",
+      "url": "https://www.youtube.com/watch?v=-P5A6KtfHUw"
+    },
+    {
+      "id": 24,
+      "categoriaId": 2,
+      "titulo": "Monster Nami ",
+      "url": "https://www.youtube.com/watch?v=HMKK_CAFwUI"
+    },
+    {
+      "id": 25,
+      "categoriaId": 2,
+      "titulo": "Zoro X Mihawk",
+      "url": "https://www.youtube.com/watch?v=UO_s2L9Fh20"
+    },
+    {
+      "id": 31,
+      "categoriaId": 3,
+      "titulo": "LUFFY VS KAIDO JÁ AGORA?! ",
+      "url": "https://www.youtube.com/watch?v=XyESQZ5R76U"
+    },
+    {
+      "id": 32,
+      "categoriaId": 3,
+      "titulo": "Revelado Yamato",
+      "url": "https://www.youtube.com/watch?v=mDt7f0ngSP4&t=3s"
+    },
+    {
+      "id": 33,
+      "categoriaId": 3,
+      "titulo": "OROCHI VOLTA? ",
+      "url": "https://www.youtube.com/watch?v=rj3oQpWdheU"
+    },
+    {
+      "id": 34,
+      "categoriaId": 3,
+      "titulo": "One Piece 985 | Mangá",
+      "url": "https://www.youtube.com/watch?v=oyQHH-D2KtY"
+    },
+    {
+      "id": 41,
+      "categoriaId": 4,
+      "titulo": "Binks no Sake",
+      "url": "https://www.youtube.com/watch?v=Q41sefpItDo"
+    },
+    {
+      "id": 42,
+      "categoriaId": 4,
+      "titulo": "We Are",
+      "url": "https://www.youtube.com/watch?v=-nPwqO30ZOQ"
+    },
+    {
+      "id": 43,
+      "categoriaId": 4,
+      "titulo": "We Go",
+      "url": "https://www.youtube.com/watch?v=fCQufN8Wsgc"
+    },
+    {
+      "id": 44,
+      "categoriaId": 4,
+      "titulo": "One Day",
+      "url": "https://www.youtube.com/watch?v=8_92ErLH5s4"
+    },
+    {
+      "id": 51,
+      "categoriaId": 5,
+      "titulo": "ONE PIECE TEORIAS",
+      "url": "https://www.youtube.com/watch?v=Km47PZvM5iU"
+    },
+    {
+      "id": 52,
+      "categoriaId": 5,
+      "titulo": "SÉCULO PERDIDO DESVENDADO ",
+      "url": "https://www.youtube.com/watch?v=k9pKdcDERVI&t=44s"
+    },
+    {
+      "id": 53,
+      "categoriaId": 5,
+      "titulo": "O CORPO E A ESCURIDÃO DE BARBA NEGRA",
+      "url": "hhttps://www.youtube.com/watch?v=ZVnpzYCKB78"
+    },
+    {
+      "id": 54,
+      "categoriaId": 5,
+      "titulo": "Mihawk",
+      "url": "https://www.youtube.com/watch?v=HpTvnfIK4ss"
+    },
+    {
+      "id": 55,
+      "categoriaId": 5,
+      "titulo": "OS PODERES DE SHANKS",
+      "url": "https://www.youtube.com/watch?v=S8e-11JEj8g"
+    },
+    {
+      "id": 61,
+      "categoriaId": 6,
+      "titulo": "Mistérios não resolvidos",
+      "url": "https://www.youtube.com/watch?v=ZXgLAxs42ak&t=1122s"
+    },
+    {
+      "id": 62,
+      "categoriaId": 6,
+      "titulo": "Curiosidades que você não sabia sobre One Piece",
+      "url": "https://www.youtube.com/watch?v=FM0W_pTKhyk"
+    },
+    {
+      "id": 63,
+      "categoriaId": 6,
+      "titulo": "15 CURIOSIDADES SOBRE O LUFFY ",
+      "url": "https://www.youtube.com/watch?v=4av6Fs6FvC0"
+    },
+    {
+      "id": 64,
+      "categoriaId": 6,
+      "titulo": "10 Curiosidades Reveladas",
+      "url": "https://www.youtube.com/watch?v=9LUe7E4FXqA"
+    },
+    {
+      "id": 65,
+      "categoriaId": 6,
+      "titulo": "15 CURIOSIDADES SOBRE OS REVOLUCIONÁRIOS ?",
+      "url": "https://www.youtube.com/watch?v=hQY86ygcT6o&t=724s"
+    },
+    {
+      "titulo": "Bon Voyage",
+      "url": "https://www.youtube.com/watch?v=AYhIPAs8JTU",
+      "categoriaId": 4,
+      "id": 69
+    },
+    {
+      "titulo": "Encontro de Shanks e Barba Branca",
+      "url": "https://www.youtube.com/watch?v=bsdFVSWLS5o",
+      "categoriaId": 2,
+      "id": 70
+    }
+  ]
 }
